@@ -36,6 +36,11 @@ points:
           stagger: 0 ky
           spread: kx
           key:
+            column_net: P21
+        pinkyinner:
+          stagger: 0 ky
+          spread: kx
+          key:
             column_net: P20
         ring:
           stagger: 0.7 ky
@@ -58,7 +63,7 @@ points:
           key:
             column_net: P14
       rows:
-        bottom:
+          bottom:
           row_net: P6
         home:
           row_net: P5
